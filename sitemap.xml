@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://Sunshine-Cai.github.io/post/daily/</loc>
+    <lastmod>2021-05-27T14:54:25+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://Sunshine-Cai.github.io/</loc>
+    <lastmod>2021-05-27T14:54:25+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://Sunshine-Cai.github.io/post/</loc>
+    <lastmod>2021-05-27T14:54:25+08:00</lastmod>
+  </url><url>
+    <loc>https://Sunshine-Cai.github.io/post/roll/</loc>
+    <lastmod>2021-05-27T14:54:18+08:00</lastmod>
+  </url><url>
+    <loc>https://Sunshine-Cai.github.io/post/congreate/</loc>
+    <lastmod>2021-05-27T14:53:04+08:00</lastmod>
+  </url><url>
+    <loc>https://Sunshine-Cai.github.io/first/</loc>
+    <lastmod>2021-05-27T14:48:01+08:00</lastmod>
+  </url><url>
+    <loc>https://Sunshine-Cai.github.io/categories/</loc>
+  </url><url>
+    <loc>https://Sunshine-Cai.github.io/tags/</loc>
   </url>
 </urlset>
